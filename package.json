@@ -36,9 +36,9 @@
   "dependencies": {
     "chalk": "^1.1.0",
     "lodash": "^4.0.0",
-    "semver": "^5.0.0",
+    "semver": "^7.5.2",
     "underscore.string": "^3.2.2",
-    "yeoman-generator": "^1.0.0",
+    "yeoman-generator": "^5.0.0",
     "yosay": "^1.0.4"
   },
   "devDependencies": {
