@@ -38,8 +38,8 @@
     "lodash": "^4.0.0",
     "semver": "^5.0.0",
     "underscore.string": "^3.2.2",
-    "yeoman-generator": "^1.0.0",
-    "yosay": "^1.0.4"
+    "yeoman-generator": "^2.0.0",
+    "yosay": "^3.0.0"
   },
   "devDependencies": {
     "coffee-script": "^1.8.0",
